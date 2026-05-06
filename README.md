@@ -4,6 +4,11 @@ Welcome to the **Data Warehouse and Analytics Project**! 🚀
 
 This repository showcases a complete data warehousing workflow — from data extraction to transformation and analytics. The goal of this project is to demonstrate how raw data can be converted into meaningful insights using structured data pipelines and analytical techniques.
 
+## 🏗️ Data Architecture
+
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+![Data Architecture]
+
 ## 🔹 Project Highlights
 - Data Extraction from multiple sources  
 - Data Cleaning & Transformation (ETL)  
