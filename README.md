@@ -7,7 +7,7 @@ This repository showcases a complete data warehousing workflow — from data ext
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture]
+![Data Architecture](docs/High Level Architecture.png)
 
 ## 🔹 Project Highlights
 - Data Extraction from multiple sources  
