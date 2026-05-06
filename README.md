@@ -97,4 +97,4 @@ This project is part of my learning journey where I focus on understanding ETL p
 
 I am actively building projects to strengthen my portfolio and gain hands-on experience in Data Analytics and Data Engineering concepts.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rudra-pratap-singhya-19491431a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-pratap-singhya-19491431a/)
