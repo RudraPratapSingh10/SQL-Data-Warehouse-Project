@@ -71,7 +71,7 @@ data-warehouse-project/
 │   ├── high_level_architecture         # Draw.io file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow                       # Draw.io file for the data flow diagram
-│   ├── Integration_Models.drawio       # Draw.io file for data models (star schema)
+│   ├── data_models                     # Draw.io file for data models (star schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
@@ -96,3 +96,5 @@ I am an aspiring Data Analyst with a strong interest in Data Warehousing and Ana
 This project is part of my learning journey where I focus on understanding ETL processes, data modeling, and building structured data warehouses for analytics and reporting. I enjoy working with data, solving problems, and continuously improving my analytical skills.
 
 I am actively building projects to strengthen my portfolio and gain hands-on experience in Data Analytics and Data Engineering concepts.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rudra-pratap-singhya-19491431a)
